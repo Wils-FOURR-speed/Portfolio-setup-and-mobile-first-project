@@ -70,5 +70,5 @@ body {
   flex-direction: column;
   padding: 20px;
   text-align: center;
-  background: url(background.svg) no-repeat center;
+  background-image: url(background.svg);
 }

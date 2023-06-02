@@ -1,4 +1,4 @@
-a name="readme-top"></a>
+<a name="readme-top"></a>
 
 <div align="center">
   
@@ -64,7 +64,7 @@ This project is a Hello Microverse repository. No complex coding is required for
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-[] Coming soon
+- [Live Demo](Comong Soon)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -78,17 +78,17 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-1- web browser
-2- git-syn
-3- code editor
+- You need to have NodeJS installed.
+- A Web Browser Google Chrome, Firefox, Microsoft Edge, Opera, etc.
+- A Code Editor VSCode, Atom etc.
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-Run this command:
-  cd my-folder
-  git clone https://github.com/Wils-FOURR-speed/Hello-Microverse-Project.git
+git clone https://github.com/Wils-FOURR-speed/Portfolio-setup-and-mobile-first-project.git
+
+cd PORTFOLIO-SETUP-AND-MOBILE-FIRST-PROJECT
 
 ### Install
 
@@ -113,14 +113,6 @@ open index.html using the live server
 To run tests, run the following command:
 
 [] Coming soon
-
-### Deployment
-
-You can deploy this project using:
-
-[] Coming soon
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 👥 Author <a name="authors"></a>
