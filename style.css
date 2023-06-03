@@ -70,7 +70,8 @@ body {
   flex-direction: column;
   padding: 20px;
   text-align: center;
-  background: url(background.svg) no-repeat center;
+  background-image: url(background.svg);
+  background-size: cover;
 }
 
 .works {
@@ -119,12 +120,12 @@ body {
   text-align: start;
 }
 
-.section-placeholder {
+.work-section {
   margin-top: 50px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 20px;
+  padding: 30px;
 }
 
 .pictureholder-container {
