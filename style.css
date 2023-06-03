@@ -83,9 +83,10 @@ body {
   text-align: center;
   color: #172b4d;
   padding-top: 40px;
+  padding-bottom: 64px;
 }
 
-.line-break::after {
+.work::after {
   content: '';
   width: 48px;
   height: 4px;
