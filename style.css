@@ -74,7 +74,7 @@ body {
   background-size: cover;
 }
 
-.works {
+.work {
   font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 700;
@@ -120,7 +120,7 @@ body {
   text-align: start;
 }
 
-.work-section {
+.works-section {
   margin-top: 50px;
   display: flex;
   flex-direction: column;
@@ -200,6 +200,7 @@ body {
 .text {
   align-items: center;
   display: flex;
+  padding: 16px;
 }
 
 .button-resume {
