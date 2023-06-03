@@ -71,7 +71,6 @@ body {
   padding: 20px;
   text-align: center;
   background-image: url(background.svg);
-<<<<<<< HEAD
   background-size: cover;
 }
 
@@ -368,6 +367,4 @@ ul {
   text-align: center;
   margin: 20px 15px;
   color: #172b4d;
-=======
->>>>>>> 5f49feaef77a7c7464763f91f0fe0cc9d14424ba
 }
