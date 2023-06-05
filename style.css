@@ -50,7 +50,6 @@ body {
 }
 
 .socials {
-  /*display: flex;*/
   gap: 1rem;
   justify-content: center;
   list-style-type: none;
@@ -374,7 +373,7 @@ ul {
   color: #172b4d;
 }
 
-li {
+.socials li {
   float: left;
   margin: 10px;
 }
