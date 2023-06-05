@@ -200,8 +200,12 @@ body {
 
 .text {
   align-items: center;
-  display: flex;
   padding: 16px;
+}
+
+.text li {
+  float: left;
+  margin: 10px;
 }
 
 .button-resume {
@@ -321,7 +325,6 @@ ul {
 
 .text-container ul {
   width: 100%;
-  display: flex;
   justify-content: space-between;
   align-items: center;
   font-size: 13px;
